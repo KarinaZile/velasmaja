@@ -1,0 +1,34 @@
+#
+#   Navigation to the left › side: left
+#
+- title: "Logo"
+  url: "/"
+  logo: true
+  side: left
+- title: "Pakalpojumi"
+  url: "/pakalpojumi/"
+  side: left
+- title: "Cenas"
+  url: "/cenas/"
+  side: left
+- title: "Kontakti"
+  url: "/kontakti/"
+  side: left
+- title: "Услуги"
+  url: "/uslugi/"
+  side: right
+- title: "Цени"
+  url: "/ceni/"
+  side: right
+- title: "Контакти"
+  url: "/adresa/"
+  side: right
+
+# - title: "Projects"
+#   url: "/projects/"
+#   side: left
+#   dropdown:
+#   - title: "Stop Plastic Pollution"
+#     url: "/projects/stop-plastic-pollution/"
+#   - title: "London PyTorch Meetup"
+#     url: "/projects/london-pytorch-meetup/"
