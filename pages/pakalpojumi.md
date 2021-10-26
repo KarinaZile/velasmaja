@@ -25,4 +25,4 @@ Jums ir pieejamas lielas ietilpības profesionālās veļasmašīnas un žāvēj
 Mūsu mašīnās var ievietot, izmazgāt un izžāvēt segas, pledus, virsmatraču pārvalkus, ka arī plānos Dormeo virsmatračus.
 Mes izmantojam tikai profesionālos mazgāšans līdzekļus, kas jau ietilpst vienā mazgāšanas cenā.
 
-Mēs piedāvājam: kreklu un gultas veļas mazgāšanu un gludināšanu, ka ari ķīmiskās tīrītavas pakalpojumus.
+<!-- Mēs piedāvājam: kreklu un gultas veļas mazgāšanu un gludināšanu, ka ari ķīmiskās tīrītavas pakalpojumus. -->

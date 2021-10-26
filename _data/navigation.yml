@@ -17,10 +17,10 @@
 - title: "Услуги"
   url: "/uslugi/"
   side: right
-- title: "Цени"
+- title: "Цены"
   url: "/ceni/"
   side: right
-- title: "Контакти"
+- title: "Контакты"
   url: "/adresa/"
   side: right
 
