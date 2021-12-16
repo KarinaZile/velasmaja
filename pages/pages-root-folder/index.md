@@ -12,6 +12,14 @@ widgets2:
 - image: img2.jpg
 - image: img3.jpg
 ---
+<center>
+<p style="color:#9D2235">Speed Queen veļas mazgātava Nīcgales ielā nestrādās 24. un 25. decembrī, un 01. janvārī. <br/>
+Speed Queen veļas mazgātava Valdeķu ielā uz laiku ir slēgta uz rekonstrukciju. Informatīvais tālrunis: +371 29266564. <br/>
+<br/>
+Прачечная самообслуживания Speed Queen на Ницгалес не будет работать 24 и 25 декабря, и 1 января.<br/>
+Прачечная самообслуживания на Валдекю временно закрыта на реконструкцию. Телефон для информации: +371 29266564.
+</p>
+</center>
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
 

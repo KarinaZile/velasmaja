@@ -9,10 +9,10 @@ header:
 widgets:
 - image: location1.jpg
   title: Nīcgales iela 53, Rīga, LV-1035, T/C "Green"
-  text: "Strādājam bez brīvdienām 11:00-20:00<br/>Telefons: +371 2014 2860"
+  text: "<p style='color:#9D2235'>Veļas mazgātava nestrādās 24. un 25. decembrī, un 01. janvārī.</p>Strādājam bez brīvdienām 11:00-20:00<br/>Tālrunis: +371 2014 2860"
 - image: location2.jpg
   title: Valdeķu iela 62a, Rīga, LV-1058
-  text: "Strādājam 11:00-18:00, <b>izņemot trešdienas</b><br/>Telefons: +371 2233 7337"
+  text: "<p style='color:#9D2235'>Veļas mazgātava uz laiku ir slēgta uz rekonstrukciju. Informatīvais tālrunis: +371 29266564.</p>Strādājam 11:00-18:00, <b>izņemot trešdienas</b><br/>Tālrunis: +371 2233 7337"
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
