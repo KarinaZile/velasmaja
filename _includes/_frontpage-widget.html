@@ -35,6 +35,10 @@
 	<p class="subheadline">{{ include.widget.dates }}</p>
 	{% endif %}
 
+	{% if include.widget.warning != empty %}
+	<p style='color:#9D2235'>{{ include.widget.warning }}</p>
+	{% endif %}
+
 	{% if include.widget.text != empty %}
 	<p>{{ include.widget.text }}</p>
 	{% endif %}
