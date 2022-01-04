@@ -9,7 +9,6 @@ header:
 widgets:
 - image: location1.jpg
   title: Nīcgales iela 53, Rīga, LV-1035, T/C "Green"
-  warning: "Прачечная самообслуживания не будет работать 24 и 25 декабря, и 1 января."
   text: "Работаем без выходных 11:00-20:00 <br/>Телефон: +371 2014 2860"
 - image: location2.jpg
   title: Valdeķu iela 62a, Rīga, LV-1058

@@ -9,7 +9,6 @@ header:
 widgets:
 - image: location1.jpg
   title: Nīcgales iela 53, Rīga, LV-1035, T/C "Green"
-  warning: "Veļas mazgātava nestrādās 24. un 25. decembrī, un 01. janvārī."
   text: "Strādājam bez brīvdienām 11:00-20:00<br/>Tālrunis: +371 2014 2860"
 - image: location2.jpg
   title: Valdeķu iela 62a, Rīga, LV-1058
