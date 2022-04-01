@@ -21,8 +21,8 @@ Ja jums nav laika, mēs izmazgāsim jūsu veļu; saņemt to varēsiet jebkurā �
 
 Ko var mazgāt?
 Pie mums var izmazgāt praktiski visu.
-Jums ir pieejamas lielas ietilpības profesionālās veļasmašīnas un žāvējamās mašīnas.
+Jums ir pieejamas lielas ietilpības profesionālās veļas mašīnas un žāvējamās mašīnas.
 Mūsu mašīnās var ievietot, izmazgāt un izžāvēt segas, pledus, virsmatraču pārvalkus, ka arī plānos Dormeo virsmatračus.
-Mes izmantojam tikai profesionālos mazgāšans līdzekļus, kas jau ietilpst vienā mazgāšanas cenā.
+Mēs izmantojam tikai profesionālos mazgāšanas līdzekļus, kas jau ietilpst vienā mazgāšanas cenā.
 
 <!-- Mēs piedāvājam: kreklu un gultas veļas mazgāšanu un gludināšanu, ka ari ķīmiskās tīrītavas pakalpojumus. -->

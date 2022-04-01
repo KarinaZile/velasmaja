@@ -7,7 +7,7 @@ permalink: /index.html
 homepage: true
 widgets:
 - image: img1.jpg
-- text: "<h3>Laipni lūdzam pašapkalpošanās veļas mazgātavā Speed Queen!</h3><br/>Pie mums var izmazgāt praktiski visu.<br/><h3>Приглашаем вас в прачечную самообслуживания Speed Queen!</h3><br/>У нас можно постирать практически все."
+- text: "<h3>Laipni lūdzam pašapkalpošanās veļas mazgātavā Speed Queen!</h3><br/>Pie mums var izmazgāt praktiski visu.<br/><h3>Приглашаем вас в прачечную самообслуживания Speed Queen!</h3><br/>У нас можно постирать практически всё."
 widgets2:
 - image: img2.jpg
 - image: img3.jpg
