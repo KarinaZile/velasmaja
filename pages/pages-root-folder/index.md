@@ -13,7 +13,7 @@ widgets2:
 - image: img3.jpg
 ---
 <center>
-<p style="color:#9D2235">Speed Queen veļas mazgātava Valdeķu ielā atkal atvērta! Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena no 11:00 līdz 19:00. Informatīvais tālrunis: +371 29266564. <br/>
+<p style="color:#A7C957">Speed Queen veļas mazgātava Valdeķu ielā atkal atvērta! Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena no 11:00 līdz 19:00. Informatīvais tālrunis: +371 29266564. <br/>
 <br/>
 Прачечная самообслуживания на Валдекю снова открыта! Время работы: пятница, суббота, воскресенье, понедельник с 11:00 до 19:00. Телефон для информации: +371 29266564.
 </p>
