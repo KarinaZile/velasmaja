@@ -12,7 +12,7 @@ widgets:
   text: "Strādājam bez brīvdienām 11:00-20:00<br/>Tālrunis: +371 20142860"
 - image: location2.jpg
   title: Valdeķu iela 62a, Rīga, LV-1058
-  text: "Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena<br/>no 11:00 līdz 19:00<br/>Tālrunis: +371 29266564"
+  text: "Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena<br/>no 11:00 līdz 19:00<br/>Tālrunis: +371 22337337"
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
