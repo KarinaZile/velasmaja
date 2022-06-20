@@ -9,10 +9,10 @@ header:
 widgets:
 - image: location1.jpg
   title: Nīcgales iela 53, Rīga, LV-1035, T/C "Green"
-  text: "Strādājam bez brīvdienām 11:00-20:00<br/>Tālrunis: +371 20142860"
+  text: "<p style='color:#9D2235'>Veļas mazgātava nestrādās 2022. gada 23. un 24. jūnijā.<br/>Tiekamies 2022. gada 25. jūnijā!</p><br/>Strādājam bez brīvdienām 11:00-20:00<br/>Tālrunis: +371 20142860"
 - image: location2.jpg
   title: Valdeķu iela 62a, Rīga, LV-1058
-  text: "Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena<br/>no 11:00 līdz 19:00<br/>Tālrunis: +371 22337337"
+  text: "<p style='color:#9D2235'>Veļas mazgātava nestrādās 2022. gada 23., 24. un 25. jūnijā.<br/>Tiekamies 2022. gada 26. jūnijā!</p><br/>Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena<br/>no 11:00 līdz 19:00<br/>Tālrunis: +371 22337337"
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}

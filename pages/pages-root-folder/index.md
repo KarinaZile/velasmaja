@@ -12,10 +12,24 @@ widgets2:
 - image: img2.jpg
 - image: img3.jpg
 ---
-<center>
+
+<!-- <center>
 <p style="color:#A7C957">Speed Queen veļas mazgātava Valdeķu ielā atkal atvērta! Darba laiks: piektdiena, sestdiena, svētdiena, pirmdiena no 11:00 līdz 19:00. Informatīvais tālrunis: +371 29266564. <br/>
 <br/>
 Прачечная самообслуживания на Валдекю снова открыта! Время работы: пятница, суббота, воскресенье, понедельник с 11:00 до 19:00. Телефон для информации: +371 29266564.
+</p>
+</center> -->
+
+<center>
+<p style="color:#9D2235">Cien. klienti!<br/>
+Speed Queen veļas mazgātava Nīcgales ielā nestrādās 2022. gada 23. un 24. jūnijā.<br/>
+Speed Queen veļas mazgātava Valdeķu ielā nestrādās 2022. gada 23., 24. un 25. jūnijā.<br/>
+Priecīgus Līgo svētkus!<br/>
+<br/>
+Уважаемые клиенты!<br/>
+Прачечная самообслуживания на Ницгалес будет закрыта 23. и 24. июня 2022. года.<br/>
+Прачечная самообслуживания на Валдекю будет закрыта 23., 24. и 25. июня 2022. года.<br/>
+Веселого праздника Лиго!
 </p>
 </center>
 
