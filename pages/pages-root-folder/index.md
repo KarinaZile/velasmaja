@@ -20,7 +20,7 @@ widgets2:
 </p>
 </center> -->
 
-<center>
+<!-- <center>
 <p style="color:#9D2235">Cien. klienti!<br/>
 Speed Queen veļas mazgātava Nīcgales ielā nestrādās 2022. gada 23. un 24. jūnijā.<br/>
 Speed Queen veļas mazgātava Valdeķu ielā nestrādās 2022. gada 23., 24. un 25. jūnijā.<br/>
@@ -31,7 +31,7 @@ Priecīgus Līgo svētkus!<br/>
 Прачечная самообслуживания на Валдекю будет закрыта 23., 24. и 25. июня 2022. года.<br/>
 Веселого праздника Лиго!
 </p>
-</center>
+</center> -->
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
 
