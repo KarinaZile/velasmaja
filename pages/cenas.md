@@ -38,6 +38,6 @@ Atlaide 10%: katru dienu - pensionāriem (uzrādot pensionāra apliecību!)
 
 Atlaide 10%: patstāvīgiem klientiem (uzrādot klienta karti!)
 
-Īpašais piedāvājums «Seniori 75+» (2021. g. - no 1946 g.) - EUR 2,60 par 1 kg. (sakot no 3 kg. veļas mazgāšana, žāvēšana un salocīšanā)
+Īpašais piedāvājums «Seniori 75+» - EUR 2,60 par 1 kg. (sakot no 3 kg. veļas mazgāšana, žāvēšana un salocīšanā)
 
 Juridiskam un patstāvīgam klientiem uz līguma pamata - EUR 2,50 par 1 kg. (sakot no 5 kg. veļas mazgāšana, žāvēšana un gludināšana)
