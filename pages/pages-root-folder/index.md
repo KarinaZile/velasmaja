@@ -20,18 +20,24 @@ widgets2:
 </p>
 </center> -->
 
-<!-- <center>
+<center>
 <p style="color:#9D2235">Cien. klienti!<br/>
-Speed Queen veļas mazgātava Nīcgales ielā nestrādās 2022. gada 23. un 24. jūnijā.<br/>
-Speed Queen veļas mazgātava Valdeķu ielā nestrādās 2022. gada 23., 24. un 25. jūnijā.<br/>
-Priecīgus Līgo svētkus!<br/>
+Izmaiņas darba laikā:<br/>
+2022. gada 24. decembrī 11:00 - 16:00<br/>
+2022. gada 25. decembrī brīvdiena<br/>
+2022. gada 31. decembrī 11:00 - 16:00<br/>
+2023. gada 01. janvārī brīvdiena<br/>
+Priecīgus Ziemassvētkus un laimīgu Jauno gadu!<br/>
 <br/>
 Уважаемые клиенты!<br/>
-Прачечная самообслуживания на Ницгалес будет закрыта 23. и 24. июня 2022. года.<br/>
-Прачечная самообслуживания на Валдекю будет закрыта 23., 24. и 25. июня 2022. года.<br/>
-Веселого праздника Лиго!
+Изменения времени работы:<br/>
+24. декабря 2022. года 11:00 - 16:00<br/>
+25. декабря 2022. года выходной<br/>
+31. декабря 2022. года 11:00 - 16:00<br/>
+01. января 2023. года выходной<br/>
+Веселого Рождества и счастливого Нового года!
 </p>
-</center> -->
+</center>
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
 
