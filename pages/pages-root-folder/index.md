@@ -20,7 +20,7 @@ widgets2:
 </p>
 </center> -->
 
-<center>
+<!-- <center>
 <p style="color:#9D2235">Cien. klienti!<br/>
 Izmaiņas darba laikā:<br/>
 2022. gada 24. decembrī 11:00 - 16:00<br/>
@@ -37,7 +37,7 @@ Priecīgus Ziemassvētkus un laimīgu Jauno gadu!<br/>
 01. января 2023. года выходной<br/>
 Веселого Рождества и счастливого Нового года!
 </p>
-</center>
+</center> -->
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
 
