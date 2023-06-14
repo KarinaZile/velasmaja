@@ -20,6 +20,19 @@ widgets2:
 </p>
 </center> -->
 
+<center>
+<p style="color:#9D2235">Cien. klienti!<br/>
+Speed Queen veļas mazgātava Nīcgales ielā nestrādās 2023. gada 23. un 24. jūnijā.<br/>
+Speed Queen veļas mazgātava Valdeķu ielā nestrādās 2023. gada 23., 24. un 25. jūnijā.<br/>
+Priecīgus Līgo svētkus!<br/>
+<br/>
+Уважаемые клиенты!<br/>
+Прачечная самообслуживания на Ницгалес будет закрыта 23. и 24. июня 2023. года.<br/>
+Прачечная самообслуживания на Валдекю будет закрыта 23., 24. и 25. июня 2023. года.<br/>
+Веселого праздника Лиго!<br/>
+</p>
+</center>
+
 <!-- <center>
 <p style="color:#9D2235">Cien. klienti!<br/>
 Izmaiņas darba laikā:<br/>
